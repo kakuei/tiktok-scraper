@@ -2,7 +2,7 @@
 
 ## Terminal Examples
 
-#### NOTE: in order to download user/music/trending/hashtag feed you need to set sessiok cookie value. Read more about it in the main Readme file: How to get/set session value
+#### NOTE: in order to download user/music/trending/hashtag feed you need to set session cookie value. Read more about it in the main Readme file: How to get/set session value
 
 **Example 1:**
 Scrape 300 video posts from the user {USERNAME}. Save post metadata to the CSV(-t csv) file
